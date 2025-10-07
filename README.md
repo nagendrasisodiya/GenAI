@@ -40,7 +40,7 @@ Feedback, suggestions, and collaboration ideas are welcome! Open an issue or rea
 ## 📫 Connect
 
 - **GitHub**: [@nagendrasisodiya](https://github.com/nagendrasisodiya)
-- **Linkedin**: [linkedin/nagendrasisodiya]([https://github.com/nagendrasisodiya/GenAI](https://www.linkedin.com/in/nagendrasisodiya/))
+- **Linkedin**: [linkedin/nagendrasisodiy](https://www.linkedin.com/in/nagendrasisodiya/)
 
 ---
 

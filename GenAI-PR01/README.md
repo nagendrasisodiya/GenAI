@@ -78,4 +78,4 @@ Adjust model parameters in `config.py`:
 
 ⭐ Part of the [GenAI Repository](https://github.com/nagendrasisodiya/GenAI)
 
-**Contact**: [@nagendrasisodiya](https://github.com/nagendrasisodiya)
+**Linkedin**: [linkedin/nagendrasisodiy](https://www.linkedin.com/in/nagendrasisodiya/)

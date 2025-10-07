@@ -77,5 +77,3 @@ Adjust model parameters in `config.py`:
 ---
 
 ⭐ Part of the [GenAI Repository](https://github.com/nagendrasisodiya/GenAI)
-
-**Linkedin**: [linkedin/nagendrasisodiy](https://www.linkedin.com/in/nagendrasisodiya/)
